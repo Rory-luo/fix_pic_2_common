@@ -1,0 +1,1 @@
+# fix_pic_2_common
